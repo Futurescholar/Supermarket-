@@ -35,6 +35,9 @@ The dataset was sourced from Kaggle
 
 After downloading the dataset into a comma separated value (csv) format, I imported it into Power Bi and Transformed the Dataset by Promoting the First column to Headers and renaming some of the columns 
 
+![Screenshot (22)](https://github.com/user-attachments/assets/44c51f25-08e3-4811-987d-2aab6235c47f)
+
+
 # Findings & Recomendation
 
 ## 1. Revenue 
@@ -52,4 +55,6 @@ The visuals each had its purpose on the page
 4. Revenue by Cusomer Type
 5. Revenue by Product Line
 6. Revenue by Time
+
+
 
