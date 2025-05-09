@@ -7,10 +7,10 @@ Supermarket Sales Report
 ---
 ## Objective
 ### To evaluate the business performance over the last quarter and identify strategic opportunities to:
-Improve customer satisfaction
-Increase overall sales
-Boost profitability
-Understand the performance of each product category
+- Improve customer satisfaction
+- Increase overall sales
+- Boost profitability
+- Understand the performance of each product category
 
 ---
 ## Problem Statement
