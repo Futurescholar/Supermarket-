@@ -107,6 +107,15 @@
 - Custom visuals and color themes were applied for readability and storytelling.
 - Interactive filters ensure personalized insights based on selection (gender, month, payment, etc.).
 
+---
+
+##  Contact
+
+Feel free to connect or reach out if you'd like to collaborate or provide feedback:
+
+-  [mustaphabilal58@gmail.com]
+-  [Your LinkedIn or Portfolio Link]
+
 
 
 
