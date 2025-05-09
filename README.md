@@ -46,12 +46,12 @@
 - Member customers contributed more to revenue than non-members, indicating stronger purchasing behavior or loyalty among members.
 - February recorded the lowest sales volume, with a notable dip compared to January and March.
 - Each product category had a unique revenue peak time:
-* Food and Beverages: 7 PM
-* Electronics Accessories: 6 PM
-* Fashion Accessories: 1 PM
-* Health and Beauty: 2 PM
-* Home and Lifestyle: 5 PM
-* Sports and Travel: 7 PM
+   * Food and Beverages: 7 PM
+   * Electronics Accessories: 6 PM
+   * Fashion Accessories: 1 PM
+   * Health and Beauty: 2 PM
+   * Home and Lifestyle: 5 PM
+   * Sports and Travel: 7 PM
 - Among Product Categories Food and Beverages:
   * Had the highest revenue
   * Enjoyed the highest profit share (17.38%)
