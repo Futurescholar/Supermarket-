@@ -41,8 +41,8 @@
 
 ---
 ## Key Observations
-[Overview(./Screenshot%20(67))]
-[Product Insights(./Screenshot%20(68))]
+[Overview](./Screenshot%20(67))
+[Product Insights](./Screenshot%20(68))
 - Branch C (Naypyitaw) generated the highest revenue, outperforming Branches A (Yangon) and B (Mandalay).
 - 7:00 PM was identified as the peak hour for revenue generation, suggesting higher customer activity in the evening.
 - Member customers contributed more to revenue than non-members, indicating stronger purchasing behavior or loyalty among members.
